@@ -1,0 +1,6 @@
+{
+  "name": "Arogya Bio - Gouthealth Combo",
+  "description": "High-converting Meta Ads landing page for Arogya Bio Gouthealth Combo (Oil + Capsules) with Google Sheets & Firebase lead capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
